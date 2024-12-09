@@ -119,3 +119,5 @@ G -->|Render Thymeleaf Template| H[User sees product list]
 4. Create a product and observe it appears in the product list after submission.
 
 This simple setup demonstrates how CQRS and event-driven architectures can be implemented in a small, monolithic Spring Boot application. It can be later extended to a distributed setup, integrate a message broker, or incorporate a proper event store.
+
+![image](https://github.com/user-attachments/assets/d0a3c193-92d5-466f-b4a6-8576a0af62ab)
